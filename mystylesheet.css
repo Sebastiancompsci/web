@@ -4,15 +4,15 @@ background-color: lightsteelblue;
 }
 
 p {
-background-color: indigo;
+background-color: "white";
 }
 
 head {
-background-color: black;
+background-color: "white";
 }
 
 body {
-font-style:normal;
+font-style:"Fira Sans";
 }
 
 p {
